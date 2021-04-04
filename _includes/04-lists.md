@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Lord of the Rings Trilogy
+  * Fellowship
+  * Return of the King
+  * Two Towers
+🧙‍♂️
